@@ -1,3 +1,4 @@
+/* I took this out of the "misc" folder just so you guys could see it, I highly recommend removing this if you're trying to skid */
 
 #include "connector.h"
 
